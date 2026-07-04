@@ -1,115 +1,70 @@
-# Rishi / Parzival
+# Hey, I'm Rishi 👋
 
-**AI-native developer · vibecoder · applied security researcher · local AI systems builder**
+**Security researcher | Full-stack builder | Crypto & infra tinkerer**
 
-I build and study practical AI + security workflows from my personal machine, **Cypherdome**.  
-My focus is local AI agents, terminal-first development, Web/Web3 security research, and reproducible engineering notes.
-
-This profile is my personal lab identity — not a company portfolio or client-project showroom.
+I hunt vulnerabilities across web, mobile, and smart contracts. I build tools that matter. I tinker with DePIN and on-chain infrastructure. Technically precise. No hype.
 
 ---
 
-## Current Focus
+## What I Do
 
-- Local AI workflows using **Ollama, Qwen, Gemma, Claude Code, and OpenCode**
-- Applied security research across **Web, OAuth/OIDC, IDOR, JWT, Android, and EVM contracts**
-- Bug bounty preparation for **Bugcrowd, Cantina, Immunefi, and YesWeHack**
-- Web3 infrastructure experiments and node-operation notes
-- Clean public labs instead of company/client work
+**🔍 Independent Security Research**  
+Real findings across platforms: Bugcrowd, Cantina, Immunefi, YesWeHack. Recent work includes session fixation in MCP servers, ERC-4626 attack vectors, mobile hardening bypasses, and OAuth protocol weaknesses.
+
+**⚙️ Full-Stack & AI-Augmented Development**  
+React/Vite frontends, Laravel backends, Flutter mobile, Python automation, TypeScript tooling. Comfortable shipping end-to-end.
+
+**⛓️ Crypto & Infrastructure**  
+EVM smart-contract security, DePIN protocols, mining infrastructure, on-chain tooling. Active in the builder ecosystem.
 
 ---
 
-## Cypherdome Workbench
+## Pinned Projects
 
-| Machine | Environment | Role |
-|---|---|---|
-| **Cypherdome** | Ubuntu 24.04 · RTX 4070 12GB · Tailscale SSH · tmux | Local AI, applied security research, Web3 infra experiments |
-
-**Workflow style:** terminal-first, documentation-heavy, reproducible, scope-aware.
+| Project | Purpose |
+|---------|---------|
+| **[local-ai-agent-recipes](https://github.com/Rishidar-lab/local-ai-agent-recipes)** | Ollama, Qwen, Gemma, Claude Code, and OpenCode workflow experiments |
+| **[sealbox](https://github.com/Rishidar-lab/sealbox)** | TypeScript CLI for tamper-evident artifact vaulting (Shelby/Aptos) |
+| **[postalmind-ai](https://github.com/Rishidar-lab/postalmind-ai)** | PostalMind AI — AI assistant for India Post GDS Officers |
+| **[nexescrow](https://github.com/Rishidar-lab/nexescrow)** | Escrow dApp on Nexus L1 (EVM, chain ID 3946) |
+| **[proof-of-reasoning](https://github.com/Rishidar-lab/proof-of-reasoning)** | Structured reasoning verification subnet for Bittensor |
+| **[evm-security-lab](https://github.com/Rishidar-lab/evm-security-lab)** | Solidity, Foundry, Hardhat, and smart contract review practice |
 
 ---
 
 ## Tech Stack
 
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![Rust - exploratory](https://img.shields.io/badge/Rust-exploratory-B7410E?style=for-the-badge&logo=rust&logoColor=white)
-
-### Frameworks / Tools
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge)
-![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
-
-### AI / Agentic Development
-
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge)
-![OpenCode](https://img.shields.io/badge/OpenCode-111111?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-![Qwen](https://img.shields.io/badge/Qwen-6B46C1?style=for-the-badge)
-![Gemma](https://img.shields.io/badge/Gemma-4285F4?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-
-### Security / Web3
-
-![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge)
-![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge)
-![EVM](https://img.shields.io/badge/EVM-security_notes-3C3C3D?style=for-the-badge)
-![OAuth](https://img.shields.io/badge/OAuth%2FOIDC-research-2F80ED?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-review-000000?style=for-the-badge)
-![IDOR](https://img.shields.io/badge/IDOR-testing-8A2BE2?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569b?style=flat-square&logo=flutter&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4eaa25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ---
 
-## Applied Security Research
+## Bug Bounty & Security Platforms
 
-| Area | Current Direction |
-|---|---|
-| Web Security | IDOR, auth flaws, JWT issues, OAuth/OIDC confusion |
-| Web3 Security | Solidity, EVM logic, DeFi protocol study, bridge contract review |
-| Bug Bounty | Scope-aware testing, report writing, PoC discipline |
-| Automation | Recon notes, target mapping, AI-assisted review workflows |
-
-I focus on authorized, in-scope research only.
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-111111?style=flat-square&logo=bugcrowd&logoColor=white)](https://bugcrowd.com)
+[![Immunefi](https://img.shields.io/badge/Immunefi-000000?style=flat-square&logo=immunefi&logoColor=white)](https://immunefi.com)
+[![YesWeHack](https://img.shields.io/badge/YesWeHack-ff6b6b?style=flat-square)](https://yeswehack.com)
 
 ---
 
-## Personal Labs
+## GitHub Stats
 
-| Lab | Purpose |
-|---|---|
-| `cypherdome-lab` | Setup notes and reproducible logs for my personal AI/security workstation |
-| `local-ai-agent-recipes` | Ollama, Qwen, Gemma, Claude Code, and OpenCode workflow experiments |
-| `web-security-notes` | Web security notes, safe demos, and bug bounty methodology |
-| `evm-security-lab` | Solidity, Foundry, Hardhat, and smart contract review practice |
-| `bug-bounty-report-templates` | Report structures, triage templates, and PoC writing formats |
-| `node-ops-journal` | Web3 infrastructure experiments and node-operation notes |
+![Rishi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishidar-lab&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishidar-lab&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Rishidar-lab&theme=dark&hide_border=true)
 
 ---
 
-## Principles
+## Connect
 
-- Build small, document clearly, improve continuously.
-- Separate personal research from company/client work.
-- Keep sensitive targets, credentials, bounty data, and private findings out of public repositories.
-- Prefer reproducible notes over fake flex.
-- Use AI as a workflow amplifier, not as a substitute for understanding.
-
----
-
-## Contact
-
-- Telegram: `@parzival`
-- Location: Cuddalore, Tamil Nadu, India
-- Research interests: AI agents, applied security, Web3 infrastructure, local inference
+- **Security Findings:** [Bugcrowd Profile](https://bugcrowd.com)
+- **X / Twitter:** [@parzival](https://x.com)
+- **Email:** [rishi@example.com](mailto:rishi@example.com)
+- **Based in:** Tamil Nadu, India
