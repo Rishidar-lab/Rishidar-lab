@@ -52,19 +52,19 @@ EVM smart-contract security, DePIN protocols, mining infrastructure, on-chain to
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-![Rishi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishidar-lab&show_icons=true&theme=dark&hide_border=true)
+[![Rishidar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishidar-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Rishidar-lab)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishidar-lab&layout=compact&theme=dark&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishidar-lab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/Rishidar-lab)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Rishidar-lab&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rishidar-lab&theme=tokyonight&hide_border=true)](https://github.com/Rishidar-lab)
 
 ---
 
-## Connect
+## 🔗 Connect
 
-- **Security Findings:** [Bugcrowd Profile](https://bugcrowd.com)
-- **X / Twitter:** [@parzival](https://x.com)
-- **Email:** [rishi@example.com](mailto:rishi@example.com)
+- **Security Findings:** [Bugcrowd — parzival](https://bugcrowd.com/parzival)
+- **X / Twitter:** [@RishidarD84283](https://twitter.com/RishidarD84283)
+- **Email:** rishidar2000@gmail.com
 - **Based in:** Tamil Nadu, India
