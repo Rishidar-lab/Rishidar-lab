@@ -30,6 +30,3 @@ Independent bug bounty hunter (Bugcrowd, YesWeHack, and direct programs) and bui
 ---
 
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4eaa25?style=flat-square&logo=gnu-bash&logoColor=white)
-
-[![Rishidar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishidar-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Rishidar-lab)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishidar-lab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/Rishidar-lab)
