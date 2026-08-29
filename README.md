@@ -7,7 +7,7 @@ Independent bug bounty hunter (Bugcrowd, YesWeHack, and direct programs) and bui
 ---
 
 ## Currently building
-- **[Morphia](https://github.com/Rishidar-lab/Morphia)**: Orchestrates authorized security research end-to-end — scoped engagements, AI-agent runs with human approval gates, SHA-256-hashed evidence, and disclosure-ready reports. In beta.
+- **[Morphia](https://github.com/Rishidar-lab/Morphia)**: Orchestrates authorized security research end-to-end — scoped engagements, AI-agent runs with human approval gates, SHA-256-hashed evidence, and disclosure-ready reports. Alpha.
 - **[evm-security-lab](https://github.com/Rishidar-lab/evm-security-lab)**: Smart-contract / EVM security practice and auditing framework.
 - **[sealbox](https://github.com/Rishidar-lab/sealbox)**: TypeScript CLI for tamper-evident artifact vaulting on Shelby/Aptos.
 
