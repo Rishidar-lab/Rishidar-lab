@@ -24,6 +24,14 @@ Independent bug bounty hunter (Bugcrowd, YesWeHack, and direct programs) and bui
 
 ---
 
+## Authorship and AI assistance
+
+Rishidar-lab is the owner, originator, and sole human creator of the projects presented here unless a repository explicitly states otherwise. AI assistants, including Anthropic Claude, are used as development tools for research, coding, review, testing, documentation, and iteration. Project goals, architecture, product direction, prompts, acceptance or rejection of generated output, and final responsibility remain with Rishidar-lab.
+
+Third-party libraries, frameworks, datasets, APIs, templates, forks, and other dependencies retain their respective authorship and licenses.
+
+---
+
 ## Contact
 [Bugcrowd](https://bugcrowd.com/parzival) · [X / Twitter](https://twitter.com/RishidarD84283) · [Email](mailto:rishidar2000@gmail.com)
 
