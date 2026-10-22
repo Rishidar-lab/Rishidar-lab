@@ -1,40 +1,43 @@
 # Rishidar D. (Rishi)
 
-Security researcher · Full-stack builder · Crypto & infra tinkerer
+Security-focused software engineer. I build verification-first tooling — systems where an AI or a user can *propose*, but deterministic code, policy, and cryptography *decide* — and I do independent, authorized bug-bounty research on the side.
 
-Independent bug bounty hunter (Bugcrowd, YesWeHack, and direct programs) and builder of security tooling — currently shipping [**Morphia**](https://github.com/Rishidar-lab/Morphia), a platform-independent orchestration tool for authorized bug-bounty and vulnerability-disclosure work.
+Every project below carries a `## Status` section stating what is implemented, tested, live-verified, experimental, or historical. Nothing here claims production readiness unless demonstrated.
 
----
+## Current engineering work
 
-## Currently building
-- **[Morphia](https://github.com/Rishidar-lab/Morphia)**: Orchestrates authorized security research end-to-end — scoped engagements, AI-agent runs with human approval gates, SHA-256-hashed evidence, and disclosure-ready reports. Alpha.
-- **[evm-security-lab](https://github.com/Rishidar-lab/evm-security-lab)**: Smart-contract / EVM security practice and auditing framework.
-- **[sealbox](https://github.com/Rishidar-lab/sealbox)**: TypeScript CLI for tamper-evident artifact vaulting on Shelby/Aptos.
+- **[sealbox](https://github.com/Rishidar-lab/sealbox)** — TypeScript CLI that seals a file to Shelby storage with a canonical, Ed25519-signed manifest and verifies it independently. v0.3.0; 174 tests, CI green. Upload path live-verified; live retrieval blocked on an upstream anonymous-tier limit (stated honestly as `PARTIAL`).
+- **[nexescrow](https://github.com/Rishidar-lab/nexescrow)** — Non-custodial milestone escrow on EVM (Solidity 0.8.26, Foundry, Next.js). 57 Foundry tests incl. reentrancy PoC and fuzz invariants; testnet-only, unaudited; Demo 1 hardening (EIP-712 intents, resolver modules) is an open, unmerged PR stack. BOT Chain testnet evidence is kept separate from network assumptions.
+- **Morphia** (private, hosted alpha v0.2.1) — orchestration for authorized security engagements: code-owned tool registry, live scope enforcement, human approval gates, signed execution receipts, evidence provenance. Not production-hardened for multi-tenant use.
+- **[postalmind-ai](https://github.com/Rishidar-lab/postalmind-ai)** — bilingual (Tamil/English) public-interest evidence tooling; deployed and CI-smoke-tested.
 
----
+## Research
 
-## Selected work
-- **[Morphia](https://github.com/Rishidar-lab/Morphia)**: Security research orchestration platform — scope enforcement, evidence integrity, and disclosure reporting for authorized engagements.
-- **[evm-security-lab](https://github.com/Rishidar-lab/evm-security-lab)**: Smart-contract / EVM security lab.
-- **[bug-bounty-report-templates](https://github.com/Rishidar-lab/bug-bounty-report-templates)**: Reusable disclosure report templates for security research.
-- **[postalmind-ai](https://github.com/Rishidar-lab/postalmind-ai)**: React/Vite bilingual (Tamil/English) GDS assistant, CI-deployed.
-- **[sealbox](https://github.com/Rishidar-lab/sealbox)**: TypeScript CLI for tamper-evident artifact vaulting (Shelby/Aptos).
-- **[nexescrow](https://github.com/Rishidar-lab/nexescrow)**: Escrow dApp on Nexus L1 (EVM, chain ID 3946).
-- **[ipl-prediction-market](https://github.com/Rishidar-lab/ipl-prediction-market)**: ML pipeline (LGBM + BiLSTM cascade).
+- **[quantum-foundations-lab](https://github.com/Rishidar-lab/quantum-foundations-lab)** — executable lab rebuilding 3-qubit teleportation from the postulates so maths, code, tests and interpretation cross-check (v0.1.0, CI green).
+- **[proof-of-reasoning](https://github.com/Rishidar-lab/proof-of-reasoning)** — *historical, failed hypothesis*: a 2026 design for a consensus-scored reasoning subnet, preserved with a criticism matrix and the lessons that moved later work toward deterministic verification.
+- Protocol-architecture research corpus (Bitcoin, Ethereum, Monero, Babylon, Nexus and others) is maintained privately; nothing is published from it yet.
 
----
+## Selected smaller builds
+
+Hackathon-week reference implementations, each with CI and a stated scope ceiling:
+[actionharbor](https://github.com/Rishidar-lab/actionharbor) (policy-gated action ledger, 379 tests) ·
+[controldeck](https://github.com/Rishidar-lab/controldeck) (governance-vs-orchestration demo) ·
+[sourcelens](https://github.com/Rishidar-lab/sourcelens) (evidence-grounded RAG) ·
+[shiftpilot-ai](https://github.com/Rishidar-lab/shiftpilot-ai) (NL→deterministic scheduling, hosted) ·
+[pi-runner](https://github.com/Rishidar-lab/pi-runner) (C++→WASM game, deployed).
+
+## Historical / learning
+
+[safecheck-pharos](https://github.com/Rishidar-lab/safecheck-pharos) (hackathon submission, 2026-07) · [defi-vibecoding-data-analysis](https://github.com/Rishidar-lab/defi-vibecoding-data-analysis) (Arbitrum Trailblazer dataset) · [online-food-ordering-cpp](https://github.com/Rishidar-lab/online-food-ordering-cpp) (academic). Archived placeholder repositories are marked as such and are candidates for deletion.
+
+## Stack (as evidenced in the repositories above)
+
+TypeScript / Node.js · Python / FastAPI · Solidity / Foundry · Next.js / React · C++ → WebAssembly · PostgreSQL · Docker · GitHub Actions.
 
 ## Authorship and AI assistance
 
-Rishidar-lab is the owner, originator, and sole human creator of the projects presented here unless a repository explicitly states otherwise. AI assistants, including Anthropic Claude, are used as development tools for research, coding, review, testing, documentation, and iteration. Project goals, architecture, product direction, prompts, acceptance or rejection of generated output, and final responsibility remain with Rishidar-lab.
-
-Third-party libraries, frameworks, datasets, APIs, templates, forks, and other dependencies retain their respective authorship and licenses.
-
----
+Rishidar-lab is the owner, originator, and sole human creator of these projects unless a repository states otherwise. AI assistants (including Anthropic Claude) are used as development tools for research, coding, review, testing, and documentation; direction, acceptance of output, and responsibility remain with Rishidar-lab. Third-party code and data retain their own licenses.
 
 ## Contact
+
 [Bugcrowd](https://bugcrowd.com/parzival) · [X / Twitter](https://twitter.com/RishidarD84283) · [Email](mailto:rishidar2000@gmail.com)
-
----
-
-![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4eaa25?style=flat-square&logo=gnu-bash&logoColor=white)
